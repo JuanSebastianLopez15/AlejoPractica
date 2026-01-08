@@ -1,1 +1,1 @@
-Alejo es gay
+print ("Alejo es gay")
